@@ -1,0 +1,18 @@
+.title.red {
+color: blue;
+}
+.first{
+    background-color: gainsboro;
+    display: flex;
+    
+    
+}
+.second{
+    display: flex;
+    background-color:gray;
+    padding-top: 50px;
+    height: 200px;
+}
+.my-profile{
+    width: 30%;
+}
